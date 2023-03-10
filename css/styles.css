@@ -84,7 +84,6 @@ color: #FFFFFF;
     background-color: #188CE8;
 }
 .main-advantages {
-    font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.03em;
@@ -98,7 +97,6 @@ color: #FFFFFF;
     color: var(--secondary-color);
 }
 .title {
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.17;
     text-align: center;
@@ -154,7 +152,6 @@ color: #FFFFFF;
     color: #FFFFFF;
 }
 .portfolio-name {
-    font-weight: 700;
     font-size: 18px;
     line-height: 2;
     letter-spacing: 0.06em;
