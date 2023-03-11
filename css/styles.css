@@ -109,7 +109,7 @@ color: #FFFFFF;
     letter-spacing: 0.03em;
 }
 .team {
-    background-color: #F5F5F5;
+    background-color: #F5F4FA;
 }
 .profession {
     font-weight: 400;
@@ -163,4 +163,7 @@ color: #FFFFFF;
     line-height: 1.88;
     letter-spacing: 0.03em;
     color: var(--secondary-color);
+}
+.active {
+    color: var(--accent-color);
 }
